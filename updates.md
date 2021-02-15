@@ -1,6 +1,7 @@
 # Project Updates
 
-*Original Posted Project from 4/22/2020*:<iframe width="560" height="315" src="https://www.youtube.com/embed/XFiy_uySuX0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Original Posted Project from 4/22/2020*: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFiy_uySuX0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Update 1/13/2021*: Construction of the pillar base for corals to sit on has begun. This image on the right is a concept drawing for the "pillar" of corals that will be designed for the Master's Thesis. The 3D printed corals can be seen stuck to the rockwork, made from pink insulation foam and painted, to simulate an aesthetically pleasing naturalistic structure. Below is the first cut "draft" of the pillar made from pink insulation foam. Each level was cut out from the cardboard template seen in the bottom left of the image, though only used loosely meaning every level has a different variation.
 
