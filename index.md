@@ -8,4 +8,4 @@ This Masters thesis I am pursuing is for the University of Central Florida's M.A
 In nature, corals are "bleaching" as a result of warming ocean temperatures created by human driven climate change. Corals are animals that belong to the phylum Cnidaria. They are colonial organisms, meaning that "generally" they are made up of hundreds to thousands of microscopic animals referred to as "polyps," living in a symbiotic relationship with algae known as zooxanthellae ([Queensland Museum](https://www.qm.qld.gov.au/microsites/biodiscovery/03sponges-and-corals/structure-classification-function.html)). The term bleaching refers to when corals lose their symbiotic relationship with zooxanthellae, expelling them from their tissues, and causing the polyps to not get enough nutrients; essentially starving to death ([NOAA](https://oceanservice.noaa.gov/facts/coral_bleach.html)).
 
 
-[For project updates follow this link](updates.md)
+[For project updates follow this link.](updates.md)
